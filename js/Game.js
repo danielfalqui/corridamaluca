@@ -386,7 +386,7 @@ class Game {
   showRank() {
     swal({
       title: `Incrível!${"\n"}Rank${"\n"}${player.rank}`,
-      text: "Você alcançou a linha de chegada com sucesso!, quer sair comigo Julia?",
+      text: "Você alcançou a linha de chegada com sucesso!, Parabens cowboy",
       imageUrl:
         "https://raw.githubusercontent.com/vishalgaddam873/p5-multiplayer-car-race-game/master/assets/cup.png",
       imageSize: "100x100",
